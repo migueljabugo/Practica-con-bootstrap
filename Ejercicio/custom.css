@@ -1,0 +1,95 @@
+body{
+    background-color:#008000;
+}
+
+.cabecera{
+    background-color:#006400;
+    text-align: center;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.pie{
+    background-color: #006400;
+    text-align: center;
+    border-top-left-radius:15px; 
+    border-top-right-radius: 15px;
+    color: white;
+}
+a{
+    color: white;
+}
+
+.texto{
+    padding: 20px;
+    text-align: justify;
+    color: white;
+}
+
+
+
+
+.modelos{
+    display: flex;
+}
+
+.modelo{
+    background-color:white;
+    border-color: #008000;
+    border-style: solid;
+    border-radius: 15px;
+    /*height: 300px*/
+}
+
+.precio{
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 5px;
+    background-color: black;
+    color: yellow;
+}
+
+.nombrebici{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #000080;
+    font-weight: bold;
+    padding: 10px;
+    border-bottom-style: solid;
+    border-color: green;
+    color: white;
+}
+
+.descripcion{
+    text-align: justify;
+}
+
+
+.mensaje{
+    resize:none;
+}
+
+.cuerpo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+  
+.mapa{
+    height: 200px;
+}
+
+.contacto{
+    text-align: right;
+    color: white;
+}
+.navegacion{
+    background-color: white;
+    border-color: #228B22;
+    
+}
+
+
